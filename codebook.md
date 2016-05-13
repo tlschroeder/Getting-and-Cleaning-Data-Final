@@ -14,7 +14,8 @@ With the exception of the 'subject' and 'activity' columns- which are fairly sel
 For example, the variable "timeBodyAccelerometerJerk-StandardDeviation-Z" is the standard deviation of a time-domain measurement of body jerk on the z-axis, taken from the accelerometer.
 
 The final output file contains the following columns:
-``` [1] "subject"          
+```
+ [1] "subject"          
  [2] "activity"                                                 
  [3] "timeBodyAccelerometer-Mean-X"                             
  [4] "timeBodyAccelerometer-Mean-Y"                             
